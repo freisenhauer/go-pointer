@@ -34,7 +34,7 @@ func main() {
 It's as simple as that.
 
 ```go
-import "github.com/freisenhauer/go-pointer"
+import "github.com/freisenhauer/go-pointer/pkg/pointer"
 
 func main() {
     foo := func(bar *string, baz *bool) {}
