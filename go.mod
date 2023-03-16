@@ -1,4 +1,4 @@
-module github.com/freisenhauer/go-pointer.git
+module github.com/freisenhauer/go-pointer
 
 go 1.19
 
